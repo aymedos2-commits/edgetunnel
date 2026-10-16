@@ -1,5 +1,5 @@
 name = "edgetunnel"
-main = "src/worker-vless.js"
+main = "diagnostic.js"
 compatibility_date = "2024-04-15"
 
 [vars]

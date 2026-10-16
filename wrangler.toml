@@ -7,3 +7,4 @@ UUID = "8c3b2491-762e-4dc6-a635-912fe80b47ad"
 
 [observability]
 enabled = true
+# Deploy aynaou-tunnel
